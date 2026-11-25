@@ -7,4 +7,5 @@ Mechanical engineer turned full-stack builder in Malaysia. I ship Solana DeFi pr
 - 🛠 Next.js · TypeScript · Supabase · Python · Solana
 
 🖥 **Portfolio:** [noraimanaliff.vercel.app](https://noraimanaliff.vercel.app), built as a desktop you can click around
+
 📫 noraimanaliffishak@gmail.com · [X](https://x.com/twentifo24) · [LinkedIn](https://www.linkedin.com/in/noraimanaliffishak)
